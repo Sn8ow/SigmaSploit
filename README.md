@@ -17,3 +17,9 @@ This is a mod menu for https://krunker.io/
 - Mod Menu
 
 And more !
+
+### Info
+1. After clicking "unlock all skins" only you can see them.
+2. If you take any weapon with the mismatched level, you won't have it.
+3. I am not responsible for receiving a ban or anything like that.
+4. Use it correctly.
