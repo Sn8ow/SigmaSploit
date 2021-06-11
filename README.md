@@ -8,3 +8,11 @@ This is a mod menu for https://krunker.io/
 4. Go to https://krunker.io
 5. Set your options
 6. Done
+
+### Features
+- Aimbot 
+- Wallhack/Tracer
+- ESP
+- Radio
+- Mod Menu
+And more !
